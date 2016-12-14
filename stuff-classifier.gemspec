@@ -3,7 +3,7 @@ $:.push File.expand_path("../lib", __FILE__)
 require "stuff-classifier/version"
 
 Gem::Specification.new do |s|
-  s.name        = "stuff-classifier-n8vision"
+  s.name        = "stuff-classifier"
   s.version     = StuffClassifier::VERSION
   s.authors     = ["Nick Adams co Alexandru Nedelcu"]
   s.email       = ["n8vision@gmail.com"]
